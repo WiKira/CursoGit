@@ -35,7 +35,7 @@ namespace ExercicioConjuntos
             }
             B.UnionWith(A);
             C.UnionWith(B);
-            Console.WriteLine("Total de Alunos: " + C.Count);
+            Console.WriteLine("Total de Alunos: " + C.Count + "!!!");
         }
     }
 }
